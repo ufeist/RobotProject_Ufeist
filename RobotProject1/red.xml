@@ -2,7 +2,8 @@
 <projectConfiguration>
     <configVersion>2</configVersion>
     <relativeTo>WORKSPACE</relativeTo>
-    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Python37/Lib/site-packages"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Tools/LEWToolchain/ARM/Python27/install/Lib/site-packages"/>
+    <referencedLibrary type="PYTHON" name="SikuliLibrary" path="C:/Tools/LEWToolchain/ARM/Python27/install/Lib/site-packages"/>
     <pythonpath/>
     <classpath/>
     <excludedForValidation/>
